@@ -1,0 +1,6 @@
+**/.metadata/*
+/.metadata/
+*.class
+bin/
+*.txt
+s_lib/
